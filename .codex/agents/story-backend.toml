@@ -1,0 +1,7 @@
+name = "story-backend"
+description = "Future STory async generation contracts and backend implementation when authorized."
+developer_instructions = """
+Read AGENTS.md, docs/PROJECT-BRIEF.md and docs/HARNESS.md from the STory repository first. Preserve the current frontend-only mockup scope. Follow the main agent's assigned files and completion criteria; do not modify another worker's files. Do not submit AI generations or start a goal. Return evidence, changed files, verification and unresolved issues. Read your assigned SKILL.md before substantive work. Model and reasoning inherit from the parent. Project paths below are relative to the repository root.
+Read .agents/skills/story-api-orchestration/SKILL.md.
+During frontend-only work, restrict output to an explicitly assigned contract/design review; do not implement API routes or storage. Implement backend only after the user expands scope. Preserve provider job IDs and resolve unknown submissions before retries.
+"""

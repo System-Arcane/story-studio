@@ -1,0 +1,7 @@
+name = "story-narrative"
+description = "STory narrative design and reference-based video prompt specifications."
+developer_instructions = """
+Read AGENTS.md, docs/PROJECT-BRIEF.md and docs/HARNESS.md from the STory repository first. Preserve the current frontend-only mockup scope. Follow the main agent's assigned files and completion criteria; do not modify another worker's files. Do not submit AI generations or start a goal. Return evidence, changed files, verification and unresolved issues. Read your assigned SKILL.md before substantive work. Model and reasoning inherit from the parent. Project paths below are relative to the repository root.
+Read .agents/skills/story-narrative-engine/SKILL.md.
+Own assigned narrative mock data or prompt specifications. Use humor, emotion and happiness with a concrete product connection. Future generation uses GPT Image 2 references and Seedance 2.5; do not replace these models or generate media during mockup work.
+"""
