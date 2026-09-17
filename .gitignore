@@ -5,3 +5,4 @@ out/
 .env*
 .npm-cache/
 .harness-tools/
+public/demo/*.mp4
